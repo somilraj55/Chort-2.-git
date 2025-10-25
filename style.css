@@ -26,14 +26,14 @@ body{
 }
 
 h1{
-    color:rgb(73, 139, 251);
+    color:rgb(148, 235, 17);
 }
 
 button{
     padding: 10px 20px;
     font-size: 16px;
     color: white;
-    background-color: rgb(73, 139, 251);
+    background-color: rgb(148, 235, 17);
     border: none;
     border-radius: 5px;
     cursor: pointer;
